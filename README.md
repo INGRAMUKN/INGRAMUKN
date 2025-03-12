@@ -10,16 +10,6 @@
 ## 🎀 About Me   
 - 🎶 Always coding with a *perfect playlist*  
 - ✨ Creating *beautiful & functional* things  
-
----
-
-## 🌸 GitHub Aesthetic  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=rose_pine" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=rose_pine" height="180px"/>
-</p>  
-
 ---
 
 ## 🌿 Tech I Love  
