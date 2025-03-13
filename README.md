@@ -2,6 +2,8 @@
 
 # ✨ Welcome to My Digital Space  
 
+![Header](https://github.com/INGRAMUKN/INGRAMUKN/raw/main/github-header-image.png)
+
 🌸 *Hi, I'm Malak!* 
 ✨ "Design the life you love—one line of code at a time." 🌙
 
